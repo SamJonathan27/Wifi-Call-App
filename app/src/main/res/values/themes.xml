@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Glass look: the home-screen wallpaper shows through behind a dark veil. -->
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowBackground">@color/veil</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:textColorPrimary">#FFFFFFFF</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:colorAccent">#FF9BE7FF</item>
+    </style>
+    <color name="veil">#59000000</color>
+</resources>

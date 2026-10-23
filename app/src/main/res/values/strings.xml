@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WfcWatch</string>
+    <string name="tile_label">Wi-Fi Calling</string>
+    <string name="widget_desc">Shows whether Wi-Fi Calling is on. Tap to open its settings.</string>
+</resources>
